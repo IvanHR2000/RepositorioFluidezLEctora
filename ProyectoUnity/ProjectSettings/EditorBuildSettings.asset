@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: b2291480654a336448784fd47cbf6482
+  - enabled: 1
+    path: Assets/Scenes/niveles.unity
+    guid: 308e3fbe003ff2744890ee79be7ae11c
+  - enabled: 1
+    path: Assets/Scenes/instruccionesCuento.unity
+    guid: 6987ea5fcb6a219428589b01a5e4c4c3
+  - enabled: 1
+    path: Assets/Scenes/cuento.unity
+    guid: 2f62e82acfcb63e4ca8e92960b2165fe
+  - enabled: 1
+    path: Assets/Scenes/instruccionesTrivia.unity
+    guid: e53be262f23ead042b5bdd10c14a83c6
+  - enabled: 1
+    path: Assets/Scenes/trivia.unity
+    guid: 28d9d61276a6b304f88ece5723c65ab3
+  - enabled: 1
+    path: Assets/Scenes/creditos.unity
+    guid: bfee1f3138865dc4291ce691ca4582ec
+  m_configObjects: {}
